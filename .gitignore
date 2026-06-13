@@ -1,0 +1,11 @@
+# Secrets — NE JAMAIS committer
+.env
+.env.*
+*.local
+
+# Dépendances / build
+node_modules/
+.netlify/
+
+# Système
+.DS_Store
